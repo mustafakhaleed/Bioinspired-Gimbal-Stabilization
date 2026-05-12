@@ -1,1 +1,15 @@
+# Force LabVIEW detection for source code statistics
+*.vi linguist-language=LabVIEW
+*.ctl linguist-language=LabVIEW
 
+# Force 3D Modeling/CAD detection
+*.stl linguist-language=STL
+*.step linguist-language=STEP
+*.stp linguist-language=STEP
+*.3mf linguist-language=3D-Manufacturing-Format
+
+# Force G-code detection for 3D printing
+*.gcode linguist-language=G-code
+
+# Ensure Arduino code is detected as C++
+*.ino linguist-language=C++
