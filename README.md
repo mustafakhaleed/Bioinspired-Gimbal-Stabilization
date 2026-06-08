@@ -31,5 +31,5 @@ A significant finding in this project was the transition from **LQR** to **PID**
 * **Hardware:** Arduino Uno, MPU6050 IMU, FB5311M Servos.
 * **Software:** LabVIEW (Simulation & Logic Visualization), Arduino IDE (C++), SolidWorks/CAD (Modeling).
 ## 📺 Demo Video
-You can watch the system in action and explore the project files here:
-[Project Folder & Demo Video](https://drive.google.com/drive/folders/1tQpJcSNlK2p0POUrl_nZQ9yRdT6pHToe?hl=ar)
+You can watch the system in action here:
+[Demo Video](https://drive.google.com/drive/folders/1tQpJcSNlK2p0POUrl_nZQ9yRdT6pHToe?hl=ar)
